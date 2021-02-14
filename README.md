@@ -1,1 +1,1 @@
-# FreeCAD-TheDesigningContest
+# Event_FreeCAD-TheDesigningContest
